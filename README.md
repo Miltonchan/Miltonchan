@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milton Chan</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **the optimization algorithms for statistical learning**
+- 🔭 I’m currently working as research assistant
 
-- 🤓 I’m studying in **The Chinese University of Hong Kong**
+- 🤓 I earned my bachelor's degree in **The Chinese University of Hong Kong**
 
 - 👯 I’m looking to collaborate on **machine learning problems**
 
